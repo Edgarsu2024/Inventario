@@ -1,0 +1,85 @@
+﻿@model Inventario.Models.Producto
+
+@{
+    ViewData["Title"] = "Crear Producto";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+
+<div class="container mt-4">
+    <h4 class="text-center">Producto</h4>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                <div class="form-group">
+                    <label asp-for="Nombre" class="control-label"></label>
+                    <input asp-for="Nombre" class="form-control" placeholder="Ingrese el nombre del producto" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Precio" class="control-label"></label>
+                    <input asp-for="Precio" class="form-control" placeholder="Ingrese el precio" type="number" step="0.01" />
+                    <span asp-validation-for="Precio" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="CategoriaId" class="control-label"></label>
+                    <select asp-for="CategoriaId" class="form-control" asp-items="ViewBag.CategoriaId"></select>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="StockDisponible" class="control-label"></label>
+                    <input asp-for="StockDisponible" class="form-control" placeholder="Ingrese el stock disponible" type="number" min="0" />
+                    <span asp-validation-for="StockDisponible" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="FechaIngreso" class="control-label"></label>
+                    <input asp-for="FechaIngreso" class="form-control" type="date" />
+                    <span asp-validation-for="FechaIngreso" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="FechaVencimiento" class="control-label"></label>
+                    <input asp-for="FechaVencimiento" class="form-control" type="date" />
+                    <span asp-validation-for="FechaVencimiento" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Descripcion" class="control-label"></label>
+                    <textarea asp-for="Descripcion" class="form-control" placeholder="Ingrese una descripción"></textarea>
+                    <span asp-validation-for="Descripcion" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Estado" class="control-label"></label>
+                    <input asp-for="Estado" class="form-control" placeholder="Estado (1=Activo, 0=Inactivo)" type="number" min="0" max="1" />
+                    <span asp-validation-for="Estado" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="ProveedorId" class="control-label"></label>
+                    <select asp-for="ProveedorId" class="form-control" asp-items="ViewBag.ProveedorId"></select>
+                </div>
+
+                <div class="form-group text-center">
+                    <input type="submit" value="Crear" class="btn btn-primary btn-lg" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="mt-3 text-center">
+        <a asp-action="Index" class="btn btn-secondary">Volver a la Lista</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

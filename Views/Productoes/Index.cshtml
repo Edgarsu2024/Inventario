@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Inventario.Models.Producto>
+
+@{
+    ViewData["Title"] = "Inventario de Productos";
+}
+
+<h1 class="text-center">Inventario de Productos</h1>
+
+<div class="d-flex justify-content-between mb-3">
+    <a asp-action="Create" class="btn btn-primary">Crear Nuevo Producto</a>
+
+    <!-- Formulario de búsqueda -->
+    <form asp-action="Index" method="get" class="d-flex">
+        <input type="text" name="searchString" value="@ViewData["CurrentFilter"]"
+               class="form-control form-control-sm me-2" placeholder="Buscar por ID o Nombre">
+        <button type="submit" class="btn btn-outline-primary">Buscar</button>
+    </form>
+</div>
+
+<table class="table table-striped table-bordered text-center">
+    <thead class="thead-dark">
+        <tr>
+            <th style="width: 15%;">@Html.DisplayNameFor(model => model.Nombre)</th>
+            <th style="width: 10%;">@Html.DisplayNameFor(model => model.Precio)</th>
+            <th style="width: 10%;">@Html.DisplayNameFor(model => model.StockDisponible)</th>
+            <th style="width: 15%;">@Html.DisplayNameFor(model => model.FechaIngreso)</th>
+            <th style="width: 15%;">@Html.DisplayNameFor(model => model.FechaVencimiento)</th>
+            <th style="width: 20%;">@Html.DisplayNameFor(model => model.Descripcion)</th>
+            <th style="width: 10%;">@Html.DisplayNameFor(model => model.Estado)</th>
+            <th style="width: 10%;">@Html.DisplayNameFor(model => model.Categoria)</th>
+            <th style="width: 15%;">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.Precio)</td>
+                <td>@Html.DisplayFor(modelItem => item.StockDisponible)</td>
+                <td>@Html.DisplayFor(modelItem => item.FechaIngreso)</td>
+                <td>@Html.DisplayFor(modelItem => item.FechaVencimiento)</td>
+                <td>@Html.DisplayFor(modelItem => item.Descripcion)</td>
+                <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                <td>@Html.DisplayFor(modelItem => item.Categoria.CategoriaId)</td>
+                <td>
+                    <div class="d-flex justify-content-center gap-2">
+                        <a asp-action="Edit" asp-route-id="@item.ProductoId" class="btn btn-sm btn-warning">Editar</a>
+                        <a asp-action="Details" asp-route-id="@item.ProductoId" class="btn btn-sm btn-info">Detalles</a>
+                        <a asp-action="Delete" asp-route-id="@item.ProductoId" class="btn btn-sm btn-danger">Eliminar</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

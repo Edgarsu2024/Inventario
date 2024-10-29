@@ -1,0 +1,572 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:controllers\\proveedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:controllers\\productoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\proveedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\proveedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\productoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\productoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\productoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\proveedors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\proveedors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\proveedors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\proveedors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\proveedors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\proveedors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\productoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\productoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\productoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\productoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\categorias\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\productoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\productoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\proveedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\proveedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min5.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min5.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|d:\\semestre_vi\\programaci\u00F3nweb_ii\\proyecto\\hastabuscador\\inventario\\data\\migrations\\20241024204030_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDDAA3E8-01B5-4B59-9CF8-985E687B145C}|Inventario.csproj|solutionrelative:data\\migrations\\20241024204030_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T21:30:53.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T21:30:33.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T21:25:14.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Index.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T14:22:25.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABoAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T20:43:19.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriasController.cs",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:42:03.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProveedorsController.cs",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Controllers\\ProveedorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProveedorsController.cs",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Controllers\\ProveedorsController.cs",
+              "RelativeToolTip": "Controllers\\ProveedorsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:43:05.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoesController.cs",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Controllers\\ProductoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoesController.cs",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Controllers\\ProductoesController.cs",
+              "RelativeToolTip": "Controllers\\ProductoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:42:34.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Productoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productoes\\Index.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Productoes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Productoes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T20:54:37.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Productoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productoes\\Edit.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Productoes\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Productoes\\Edit.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAUwEoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:41:36.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Proveedors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedors\\Index.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Proveedors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Proveedors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T21:03:00.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:28:43.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Categorias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Edit.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Categorias\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Edit.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:37:19.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Categorias\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Details.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Categorias\\Details.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Details.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:38:23.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Proveedors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedors\\Delete.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Proveedors\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Proveedors\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:58:13.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Productoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productoes\\Delete.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Productoes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Productoes\\Delete.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAADwv1MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:51:43.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Proveedors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedors\\Edit.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Proveedors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Proveedors\\Edit.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAUwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:54:23.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Proveedors\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedors\\Details.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Proveedors\\Details.cshtml",
+              "RelativeToolTip": "Views\\Proveedors\\Details.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T03:56:47.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Create.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:35:32.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Proveedors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedors\\Create.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Proveedors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Proveedors\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAUwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:31:58.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Productoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productoes\\Details.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Productoes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Productoes\\Details.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAADwv1EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T21:05:56.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Categorias\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Delete.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Categorias\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Delete.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvykAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:39:10.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Productoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Productoes\\Create.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Productoes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Productoes\\Create.cshtml",
+              "ViewState": "AQIAADEAAAAAAAAAAAAUwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:24:12.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvzsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T02:19:39.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T01:03:57.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Models\\Proveedor.cs",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Models\\Proveedor.cs",
+              "RelativeToolTip": "Models\\Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:28:49.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-29T00:46:48.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bootstrap.min5.css",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min5.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min5.css",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min5.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min5.css",
+              "ViewState": "AQIAABEuAAAAAAAAAAAAABMuAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-29T00:38:39.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-25T14:26:42.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:28:27.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:31:55.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241024204030_PrimeraMigracion.cs",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Data\\Migrations\\20241024204030_PrimeraMigracion.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20241024204030_PrimeraMigracion.cs",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Data\\Migrations\\20241024204030_PrimeraMigracion.cs",
+              "RelativeToolTip": "Data\\Migrations\\20241024204030_PrimeraMigracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:40:30.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:30:23.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Semestre_VI\\Programaci\u00F3nWeb_II\\Proyecto\\HastaBuscador\\Inventario\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T20:29:48.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

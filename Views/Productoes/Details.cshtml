@@ -1,0 +1,81 @@
+﻿@model Inventario.Models.Producto
+
+@{
+    ViewData["Title"] = "Detalles del Producto";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+
+<div class="container mt-4">
+    <h4 class="text-center">Producto</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3 font-weight-bold">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold">
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold">
+            @Html.DisplayNameFor(model => model.StockDisponible)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.StockDisponible)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold">
+            @Html.DisplayNameFor(model => model.FechaIngreso)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.FechaIngreso)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold">
+            @Html.DisplayNameFor(model => model.FechaVencimiento)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.FechaVencimiento)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold">
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold">
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold">
+            @Html.DisplayNameFor(model => model.Categoria)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Categoria.CategoriaId)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold">
+            @Html.DisplayNameFor(model => model.Proveedor)
+        </dt>
+        <dd class="col-sm-9">
+            @Html.DisplayFor(model => model.Proveedor.Nombre)
+        </dd>
+    </dl>
+
+    <div class="text-center mt-4">
+        <a asp-action="Edit" asp-route-id="@Model?.ProductoId" class="btn btn-primary mr-2">Editar</a>
+        <a asp-action="Index" class="btn btn-secondary">Volver a la Lista</a>
+    </div>
+</div>

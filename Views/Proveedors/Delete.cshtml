@@ -1,0 +1,57 @@
+﻿@model Inventario.Models.Proveedor
+
+@{
+    ViewData["Title"] = "Eliminar Proveedor";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+
+<div class="container mt-4">
+    <h3 class="text-center text-danger">¿Estás seguro de que deseas eliminar este proveedor?</h3>
+    <h4 class="text-center mt-3">Proveedor</h4>
+    <hr />
+    <dl class="row justify-content-center">
+        <dt class="col-sm-3 font-weight-bold text-right">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class="col-sm-7">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold text-right">
+            @Html.DisplayNameFor(model => model.Telefono)
+        </dt>
+        <dd class="col-sm-7">
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold text-right">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-7">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold text-right">
+            @Html.DisplayNameFor(model => model.Direccion)
+        </dt>
+        <dd class="col-sm-7">
+            @Html.DisplayFor(model => model.Direccion)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold text-right">
+            @Html.DisplayNameFor(model => model.Activo)
+        </dt>
+        <dd class="col-sm-7">
+            @Html.DisplayFor(model => model.Activo)
+        </dd>
+    </dl>
+
+    <div class="text-center mt-4">
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-for="ProveedorId" />
+            <button type="submit" class="btn btn-danger mr-2">Eliminar</button>
+            <a asp-action="Index" class="btn btn-secondary">Volver a la Lista</a>
+        </form>
+    </div>
+</div>

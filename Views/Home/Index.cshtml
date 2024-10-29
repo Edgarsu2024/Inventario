@@ -1,0 +1,80 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+}
+<!-- Encabezado -->
+<header class="bg-light border-bottom mb-4" style="padding: 10px 15px;">
+    <!-- Ajuste directo de padding -->
+    <div class="container text-center">
+        <h1 class="display-5 fw-bold">Inventario Plus</h1>
+        <p class="lead">Gestiona tus productos y proveedores de manera eficiente.</p>
+    </div>
+</header>
+
+<!-- Carrusel -->
+<div id="carouselExampleControls" class="carousel slide container mb-5" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <!-- Imagen 1 -->
+        <div class="carousel-item active">
+            <img src="~/1.jpg" class="d-block w-100" style="height: 400px; object-fit: cover;" alt="Gestión de Inventario">
+            <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+                <h5 class="text-light">Control Total</h5>
+                <p>Visualiza y organiza tus productos en tiempo real.</p>
+            </div>
+        </div>
+        <!-- Imagen 2 -->
+        <div class="carousel-item">
+            <img src="~/2.jpg" class="d-block w-100" style="height: 400px; object-fit: cover;" alt="Análisis de Inventario">
+            <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+                <h5 class="text-light">Análisis de Inventario</h5>
+                <p>Obtén informes detallados para mejorar tus decisiones.</p>
+            </div>
+        </div>
+        <!-- Imagen 3 -->
+        <div class="carousel-item">
+            <img src="~/3.jpg" class="d-block w-100" style="height: 400px; object-fit: cover;" alt="Relación con Proveedores">
+            <div class="carousel-caption d-none d-md-block bg-dark bg-opacity-50 rounded">
+                <h5 class="text-light">Relación con Proveedores</h5>
+                <p>Mantén el control de tus proveedores de manera eficiente.</p>
+            </div>
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Anterior</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Siguiente</span>
+    </button>
+</div>
+
+<!-- Sección de bienvenida -->
+<div class="container text-center">
+    <p class="text-muted mb-4">Explora todas las funcionalidades disponibles para gestionar tu inventario de manera óptima.</p>
+    <div class="d-flex justify-content-center gap-4">
+        <a href="@Url.Action("Index", "Productoes")" class="btn btn-outline-primary btn-lg">Ver Productos</a>
+        <a href="@Url.Action("Index", "Proveedors")" class="btn btn-outline-secondary btn-lg">Gestionar Proveedores</a>
+        <a href="@Url.Action("Index", "Categorias")" class="btn btn-outline-success btn-lg">Categorías</a>
+    </div>
+</div>
+
+<!-- Estilos adicionales -->
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        color: #242424;
+    }
+
+    .carousel-caption {
+        backdrop-filter: blur(5px);
+        padding: 1rem;
+    }
+
+    .btn-lg {
+        width: 200px;
+    }
+</style>
+
+
+
+

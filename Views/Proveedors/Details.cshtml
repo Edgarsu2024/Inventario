@@ -1,0 +1,53 @@
+﻿@model Inventario.Models.Proveedor
+
+@{
+    ViewData["Title"] = "Detalles del Proveedor";
+}
+
+<h1 class="text-center">@ViewData["Title"]</h1>
+
+<div class="container mt-4">
+    <h4 class="text-center">Proveedor</h4>
+    <hr />
+    <dl class="row justify-content-center">
+        <dt class="col-sm-3 font-weight-bold text-right">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class="col-sm-7">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold text-right">
+            @Html.DisplayNameFor(model => model.Telefono)
+        </dt>
+        <dd class="col-sm-7">
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold text-right">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class="col-sm-7">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold text-right">
+            @Html.DisplayNameFor(model => model.Direccion)
+        </dt>
+        <dd class="col-sm-7">
+            @Html.DisplayFor(model => model.Direccion)
+        </dd>
+
+        <dt class="col-sm-3 font-weight-bold text-right">
+            @Html.DisplayNameFor(model => model.Activo)
+        </dt>
+        <dd class="col-sm-7">
+            @Html.DisplayFor(model => model.Activo)
+        </dd>
+    </dl>
+
+    <div class="text-center mt-4">
+        <a asp-action="Edit" asp-route-id="@Model?.ProveedorId" class="btn btn-primary mr-2">Editar</a>
+        <a asp-action="Index" class="btn btn-secondary">Volver a la Lista</a>
+    </div>
+</div>
